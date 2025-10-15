@@ -1,0 +1,26 @@
+{
+  "name": "Basic-Node.js",
+  "version": "1.0.0",
+  "description": "A simple Node.js Web Application, using EJS as a rendering template.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasimy-as/Basic-Node.js.git"
+  },
+  "author": "Hasimy",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "semantic-ui-css": "^2.4.1",
+    "ejs-lint": "^0.3.0",
+    "semantic-ui-icon": "^2.3.3"
+  },
+  "bugs": {
+    "url": "https://github.com/hasimy-as/Basic-Node.js/issues"
+  },
+  "homepage": "https://github.com/hasimy-as/Basic-Node.js#readme"
+}
